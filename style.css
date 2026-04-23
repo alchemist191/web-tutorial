@@ -1,1 +1,13 @@
-
+body {
+  background-color: #0f172a; /* biru gelap */
+  color: #e2e8f0; /* abu terang */
+  font-family: Arial, sans-serif;
+}
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 1.2em;
+  line-height: 1.5;
+}
