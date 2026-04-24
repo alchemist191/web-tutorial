@@ -1,6 +1,6 @@
 body {
-  background-color: #f5f7fa; /* biru gelap */
-  color: #000; /* abu terang */
+  background-color: #f5f7fa; 
+  color: #000; 
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0px;
@@ -26,9 +26,9 @@ header {
   display: flex;
   align-items: center;
   background-color: #0f172a;
+  width: 100%;
   gap: 10px;
   padding: 20px;
-  width: 100%
   color: #e2e8f0;
   justify-content: space-between;
 }
@@ -43,8 +43,8 @@ div {
   text-align: center;
 }
 button {
-  background-color: #e2e8f0; /* biru sedang */
-  color: #000; /* abu terang */
+  background-color: #e2e8f0; 
+  color: #000; 
   border: none;
   padding: 10px 20px;
   font-size: 1em;
@@ -53,7 +53,7 @@ button {
   margin: 0 5px;
 }
 button:hover {
-  background-color: hsl(191, 96%, 44%); /* biru cerah */
+  background-color: hsl(191, 96%, 44%); 
 }
 a {
   text-decoration: none;
