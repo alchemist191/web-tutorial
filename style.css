@@ -63,3 +63,6 @@ a {
   align-items: center;
   gap: 10px;
 }
+iframe {
+  max-width: 100%;
+}
